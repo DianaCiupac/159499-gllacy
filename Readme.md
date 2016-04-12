@@ -1,7 +1,8 @@
 # Личный проект «Глейси»
 
 * Студент: [Diana Ciupac](https://up.htmlacademy.ru/htmlcss/13/user/159499).
-* Наставник: `Неизвестно`.
+* Наставник: [Роман Духницький](https://up.htmlacademy.ru/htmlcss/13/user/59884).
+.
 
 ---
 
